@@ -31,7 +31,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
 
-# Required Strings :-
+# Required Strings :-github.com/no-one-kn0ws-me/filerenamebot
 
 * -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
 
