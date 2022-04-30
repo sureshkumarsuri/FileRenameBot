@@ -24,7 +24,7 @@
 ➡️[BOT 2](https://t.me/rename2robot)    
 ➡️[BOT 3](https://t.me/rename3robot)    
 ➡️[BOT 4](https://t.me/rename4robot)   
-➡️[BOT 5](https://t.me/rename5robot)
+github.com/no-one-kn0ws-me/filerenamebot
 
 
 # Deploy straight to Heroku!
